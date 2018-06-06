@@ -1,0 +1,75 @@
+
+body {
+    background-color: #cccccc;
+    
+
+}
+.btn{
+    width: 120px;
+    color: purple;
+    text-align: left;
+    margin: 1px dotted red;
+}
+.bigDiv{
+    background-color: paleturquoise;
+    background-image: url("../images/wallpaper.jpg"); 
+    height: 780px;
+    text-align: center;
+}
+.headerDiv{
+    color: #884242;
+    height: 120px;
+    margin-top: auto;
+    
+    
+}
+.timer{
+    display: inline-block;
+    height: 60px;
+    width: 180px;
+    margin-left: 40%;
+    margin-right: 40%;
+    color: lightskyblue;
+    text-align: initial;
+    border: solid rgb(88, 59, 59);
+    background-color: rgb(46, 38, 29);
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0; 
+}
+
+h1,.introdiv{
+    height: auto;
+    color: cadetblue;
+    border: dotted gray;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 5%;
+    background-color: gainsboro;
+    font-style: oblique;
+}
+
+#scoreValue{
+    display: block center;
+    background-color:gainsboro;
+    width: 125px;
+    height: 80px;
+    margin-left: 47.50%;
+    margin-right: 40%;
+    text-align: left;
+    border: dotted gray;
+    margin-top: 8px;
+
+}
+#QtnOpt{
+    color: lightblue;
+}
+#recorder{
+    color: lightslategray;
+}
+#gameReset{
+    color: lightslategray;
+}
